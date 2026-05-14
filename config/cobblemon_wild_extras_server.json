@@ -1,0 +1,10 @@
+{
+  "teraSpawnsEnabled": true,
+  "hiddenAbilitySpawnsEnabled": true,
+  "stellarTeraEnabled": true,
+  "weightedTeraTypesEnabled": true,
+  "preventShinyDespawn": true,
+  "teraSpawnChancePercent": 1.0,
+  "hiddenAbilitySpawnChancePercent": 1.0,
+  "stellarTeraChancePercent": 5.0
+}

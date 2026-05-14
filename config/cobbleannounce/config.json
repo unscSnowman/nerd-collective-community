@@ -1,0 +1,36 @@
+{
+  "announce_shiny": true,
+  "announce_legendary": true,
+  "announce_both": true,
+  "announce_normal_list": [],
+  "messages": {
+    "shiny": "Shiny [color=\"yellow\"][spawn][/color] has spawned near [color=\"red\"][player][/color] at [color=\"green\"][coords][/color]",
+    "legendary": "Legendary [color=\"blue\"][spawn][/color] has spawned near [color=\"red\"][player][/color] at [color=\"green\"][coords][/color]",
+    "both": "Shiny Legendary [color=\"purple\"][spawn][/color] has spawned near [color=\"red\"][player][/color] at [color=\"green\"][coords][/color]",
+    "normal": "[spawn] has spawned near [color=\"red\"][player][/color] at [color=\"green\"][coords][/color]"
+  },
+  "sounds": {
+    "shiny": {
+      "enabled": true,
+      "type": "cry",
+      "custom_sound": "minecraft:block.note_block.pling"
+    },
+    "legendary": {
+      "enabled": true,
+      "type": "cry",
+      "custom_sound": "minecraft:block.note_block.pling"
+    },
+    "both": {
+      "enabled": true,
+      "type": "cry",
+      "custom_sound": "minecraft:block.note_block.pling"
+    },
+    "normal": {
+      "enabled": false,
+      "type": "cry",
+      "custom_sound": "minecraft:block.note_block.pling"
+    }
+  },
+  "_comment_sound_types": "Sound types: 'cry' (Pokemon cry), 'pc' (Cobblemon PC sound), or 'minecraft' (Any Minecraft sound ID). If 'minecraft', custom_sound field is used.",
+  "_comment_message_tags": "Message tags: [spawn] (Pokemon name), [player] (Nearest player), [type] (Spawn type), [x], [y], [z], [coords], [color=\"COLOR\"]text[/color]."
+}

@@ -1,0 +1,11 @@
+{
+  "showCaughtIndicator": true,
+  "showMarkIndicator": true,
+  "showGenderIndicator": true,
+  "showHiddenAbilityIndicator": true,
+  "showWildTeraIndicator": true,
+  "showWildTypeIndicator": true,
+  "showShinyIndicator": true,
+  "showMegaIndicator": true,
+  "typeIconStyle": "COBBLEMON"
+}
