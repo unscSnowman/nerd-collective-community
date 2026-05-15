@@ -47,5 +47,6 @@
   {"ingredient":{"id":"apotheosis:sigil_of_rebirth"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"apotheosis:gem_fused_slate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:granite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"tiab:time_in_a_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"tiab:time_in_a_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:weathered_copper"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

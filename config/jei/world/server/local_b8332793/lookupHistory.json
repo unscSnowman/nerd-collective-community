@@ -1,5 +1,14 @@
 [
   {"version":1},
+  {"ingredient":{"id":"create:belt_connector"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:weathered_copper_tiles"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:waxed_weathered_copper_tiles"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:copper_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:exposed_copper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:weathered_copper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oxidized_copper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:stripped_fir_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:fir_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simpletms:case_tr"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:saddle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"cobblemon:hearty_grains"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -90,14 +99,5 @@
   {"ingredient":{"id":"cobblemon:green_mint_leaf"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:sequenced_gearshift"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"cobblemon:black_belt"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"rctmod:trainer_spawner"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"cobblemon:exp_candy_l"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"justdirethings:experienceholder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"justdirethings:coalblock_t4"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"justdirethings:gooblock_tier2"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:blaze_powder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:blaze_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"enderio:yeta_wrench"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"justdirethings:gooblock_tier1"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"irons_spellbooks:scroll","components":{"irons_spellbooks:spell_container":{"mustEquip":false,"data":[{"id":"irons_spellbooks:magic_missile","index":0,"level":1,"locked":true}],"maxSpells":1,"spellWheel":false}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"rctmod:trainer_spawner"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]
