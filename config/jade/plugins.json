@@ -99,6 +99,9 @@
     "crafting_monitor": true,
     "part_name": true
   },
+  "enderio": {
+    "soul_bound": true
+  },
   "mekanism": {
     "chemical": true,
     "remove_builtin": true,
@@ -130,6 +133,10 @@
     "preservation_chamber": true,
     "milk_jar": true,
     "toaster": true
+  },
+  "evilcraft": {
+    "box_of_eternal_closure": true,
+    "broom": true
   },
   "framedblocks": {
     "framed_item_frame": true,

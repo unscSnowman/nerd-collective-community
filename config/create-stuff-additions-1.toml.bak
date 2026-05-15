@@ -23,7 +23,6 @@
 	enableImpactEnchant = true
 	enableGravityGunEnchant = true
 	enableHellfireEnchant = true
-	enableChunkEaterEnchant = true
 
 ["Drone Module"]
 	enableDrillDroneModule = true

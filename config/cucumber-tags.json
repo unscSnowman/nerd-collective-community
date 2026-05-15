@@ -9,7 +9,7 @@
   "c:ingots/bronze": "silentgear:bronze_ingot",
   "c:ingots/invar": "alltheores:invar_ingot",
   "c:gems/ruby": "irons_jewelry:ruby",
-  "c:dusts/niter": "null",
+  "c:dusts/niter": "cgs:niter",
   "c:ingots/electrum": "immersiveengineering:ingot_electrum",
   "c:silicon": "oritech:silicon",
   "c:gems/apatite": "null",
